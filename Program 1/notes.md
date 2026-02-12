@@ -1,9 +1,3 @@
-# 100DaysOfCode
-100 Days of Python Learning Exercises
-
----
-
-### Day 1 Learning
 1. Printing to python console with the print function
     - print("Hello World")
 2. String Manipulation
@@ -21,5 +15,3 @@
     - Ask for user to give the city they grew up in and store in a variable
     - Ask the user for the name of a pet and store it in a variable
     - Combine the name of their city and pet and show them their band name
-
----
